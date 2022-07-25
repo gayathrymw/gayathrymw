@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif" width="400"/>
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif" width="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=gayathrymw&show_icons=true&line_height=33&count_private=true&theme=radical" a />
 </div>
 <div id="header" align="center">
