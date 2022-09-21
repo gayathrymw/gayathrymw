@@ -3,13 +3,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gayathrymw&show_icons=true&line_height=33&count_private=true&theme=radical" a />
 </div>
 <div id="header" align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrymw&&hide=cmake&langs_count=4&line_height=60&theme=radical" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrymw&theme=radical" height="170"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrymw&&hide=cmake&langs_count=15&line_height=60&theme=radical" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrymw&theme=radical" height="200"/>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=gayathrymw&color=orange" />
 </div>
 
-### Im learning,
+### I'm learning,
 <table>
     <tr>
       <td>
