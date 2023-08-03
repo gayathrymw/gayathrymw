@@ -1,11 +1,28 @@
  ## Hey 👋, Gayathry here!
-I'm currently pursuing B.Tech in Computer Science - AI at Amrita University, Amritapuri
+I'm currently pursuing B.Tech in Computer Science - AI at Amrita Viswa Vidyapeetam, Amritapuri
 
-### 🔨 Languages and Tools
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href = "https://flutter.dev/" target = "_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"> </a>
+### 🛠️ Languages and Tools
+<a style="padding-right:10px;" target="_blank" href="https://www.python.org/">
+ <img align="left" alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></a>
+<a style="padding-right:10px;" target="_blank" href=https://www.java.com/en/>
+ <img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />
+</a>
+<a style="padding-right:10px;" target="_blank" href=https://isocpp.org/>
+ <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" style="padding-right:10px;" />
+</a>
+<a style="padding-right:10px;" target="_blank" href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+</a>
+<a style="padding-right:10px;" target="_blank" href=https://flutter.dev/>
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/?size=1x&id=7I3BjCqe9rjG&format=png" style="padding-right:10px;" />
+</a>
+
+<br/><br/>
+
+### 🤝 Connect with me
+<a style="padding-right:10px;" target="_blank" href="www.linkedin.com/in/gayathry-wariyar-a401a2222">
+<img align="left" alt="Linkedln" width="35px" src="https://img.icons8.com/?size=1x&id=13930&format=png" />
+</a>
 
 <br/><br/>
 
