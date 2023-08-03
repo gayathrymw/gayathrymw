@@ -20,9 +20,13 @@ I'm currently pursuing B.Tech in Computer Science - AI at Amrita Viswa Vidyapeet
 <br/><br/>
 
 ### 🤝 Connect with me
-<a style="padding-right:10px;" target="_blank" href="www.linkedin.com/in/gayathry-wariyar-a401a2222">
+<a style="padding-right:10px;" target="_blank" href="https://www.linkedin.com/in/gayathry-wariyar-a401a2222"/>
 <img align="left" alt="Linkedln" width="35px" src="https://img.icons8.com/?size=1x&id=13930&format=png" />
 </a>
+<a style="padding-right:10px;" target="_blank" href="https://gayathrymw@gmail.com"/>
+<img align="left" alt="Linkedln" width="35px" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" />
+</a>
+
 
 <br/><br/>
 
