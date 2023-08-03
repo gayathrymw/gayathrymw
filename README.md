@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="260" src=https://github.com/gayathrymw/gayathrymw/assets/91821885/f70238d5-65e2-4b9e-9ec0-e8b8ef38e9ae alt="my banner" >
+<img width="1500" height="260" src=https://github.com/gayathrymw/gayathrymw/assets/91821885/f70238d5-65e2-4b9e-9ec0-e8b8ef38e9ae alt="my banner" >
 </p>
  
 ## Hey 👋, Gayathry here!
