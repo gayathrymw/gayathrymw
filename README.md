@@ -14,8 +14,20 @@ I'm currently pursuing B.Tech in Computer Science - AI at Amrita Viswa Vidyapeet
 <a style="padding-right:10px;" target="_blank" href=https://isocpp.org/>
  <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" style="padding-right:10px;" />
 </a>
+<a style="padding-right:10px;" target="_blank" href=https://html.spec.whatwg.org/>
+ <img align="left" alt="HTML" width="30px" src="https://img.icons8.com/?size=1x&id=20909&format=png" style="padding-right:10px;" />
+</a>
 <a style="padding-right:10px;" target="_blank" href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+</a>
+<a style="padding-right:10px;" target="_blank" href=https://www.scala-lang.org/>
+<img align="left" alt="Scala" width="26px" src="https://img.icons8.com/?size=512&id=FIdVBOahSJu0&format=png" style="padding-right:10px;" />
+</a>
+<a style="padding-right:10px;" target="_blank" href=https://www.mysql.com/>
+<img align="left" alt="MySql" width="35px" src="https://img.icons8.com/?size=1x&id=UFXRpPFebwa2&format=png" style="padding-right:10px;" />
+</a>
+<a style="padding-right:10px;" target="_blank" href=https://numpy.org/>
+<img align="left" alt="Numpy" width="31px" src="https://img.icons8.com/?size=1x&id=aR9CXyMagKIS&format=png" style="padding-right:10px;" />
 </a>
 <a style="padding-right:10px;" target="_blank" href=https://flutter.dev/>
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/?size=1x&id=7I3BjCqe9rjG&format=png" style="padding-right:10px;" />
